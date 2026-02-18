@@ -2,7 +2,7 @@
 
 ---
 
-<img src="profiles.png" align="left" width="150">
+<img src="profiles.png" align="right" width="150">
 
 # Sugeng Hartono, M.Si., M.Sc.
 Marine Biologist | Fisheries Genetics | Molecular Ecology | Lecturer
@@ -10,10 +10,7 @@ Marine Biologist | Fisheries Genetics | Molecular Ecology | Lecturer
 📧 sugeng.hartono@unsoed.ac.id  
 
 🔗 **Profiles:**  
-- 🌐 [Google Scholar](https://scholar.google.co.id/citations?user=GxbfcCEAAAAJ&hl)  
-- 📊 [Scopus Author](https://www.scopus.com/authid/detail.uri?authorId=59229008800)  
-- 📚 [Web of Science](https://www.webofscience.com/wos/author/record/LRS-8174-2024)  
-- 🆔 [ORCID](https://orcid.org/0000-0002-2317-7648)  
+- 🌐 [Google Scholar](https://scholar.google.co.id/citations?user=GxbfcCEAAAAJ&hl)  - 📊 [Scopus Author](https://www.scopus.com/authid/detail.uri?authorId=59229008800)  - 📚 [Web of Science](https://www.webofscience.com/wos/author/record/LRS-8174-2024)  - 🆔 [ORCID](https://orcid.org/0000-0002-2317-7648)  
 
 ---
 
