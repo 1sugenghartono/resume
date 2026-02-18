@@ -1,2 +1,2 @@
-# resume
-Sugeng Hartono's resume
+# Resume
+Sugeng Hartono's Resume
