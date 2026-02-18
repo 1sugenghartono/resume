@@ -1,5 +1,4 @@
-# Resume
-Sugeng Hartono's Resume
+# of Sugeng Hartono
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SugengHartono)
 
