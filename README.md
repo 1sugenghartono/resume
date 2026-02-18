@@ -1,5 +1,3 @@
-# of Sugeng Hartono
-
 ![Profile Views](https://komarev.com/ghpvc/?username=SugengHartono)
 
 ---
