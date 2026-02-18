@@ -2,7 +2,7 @@
 
 ---
 
-<img src="profilea.png" align="left" width="150">
+<img src="profiles.png" align="left" width="150">
 
 # Sugeng Hartono, M.Si., M.Sc.
 Marine Biologist | Fisheries Genetics | Molecular Ecology | Lecturer
