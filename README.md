@@ -2,6 +2,8 @@
 
 ---
 
+<img src="profilea.png" align="left" width="150">
+
 # Sugeng Hartono, M.Si., M.Sc.
 Marine Biologist | Fisheries Genetics | Molecular Ecology | Lecturer
 📍 Banjarnegara, Indonesia  
